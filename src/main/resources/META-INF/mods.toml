@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[dependencies.pams_harvestcraft]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.pams_harvestcraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[mods]]
+modId="pams_harvestcraft"
+version="1.0.0"
+displayName="Pam's HarvestCraft"
+description='''
+A custom Pam's HarvestCraft mod for the InfrastructureSickos Minecraft server.
+'''
